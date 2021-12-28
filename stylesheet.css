@@ -133,13 +133,13 @@ padding: 0;
     padding: 90px;
 }
 .fo{
-   margin-left: 250px !important;
+   
     width: 50%;
    
 }
 .fos{
     margin-top: 20px;
-    margin-left: 420px !important;
+
      width: 20%;
      display: flex;
     
@@ -229,7 +229,7 @@ padding: 0;
         }
         .fos{
             margin-top: 20px;
-            margin-left: 170px !important;
+            margin-left: 60px !important;
              width: 50%;
            
             
